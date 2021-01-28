@@ -14,19 +14,16 @@
 </body>
 
 <style>
-body {
-background-image:
+body {background-image:
 url("Breaking News.jpg");
 background-position: center;
 background-repeat:no-repeat;
-background-size: 100%;
-}
+background-size: 100%;}
 </style>
 
 <p align= "right">
 <img src= "News.png" alt= "breaking news"
-style="width:400px;height:350px;"
->
+style="width:400px;height:350px;">
 
 </html>
 
